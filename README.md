@@ -1,6 +1,6 @@
-###Reliably Mapping Low-intensity Forest Disturbance Using Satellite Radar Data 
+# Reliably Mapping Low-intensity Forest Disturbance Using Satellite Radar Data 
 
-
+Aquino C., Mitchard E.T.A, McNicol I.M., Carstairs H., Burt A., Puma Vilca B. L., Obiang Ebanega M., Modinga Dikongo A., Dassi C., Mayta S., Tamayo M.,Grijalba P., Miranda F., Disney M.,
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
